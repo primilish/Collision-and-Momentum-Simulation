@@ -10,7 +10,7 @@ This project was developed as part of a Computer Programming course to provide a
 
 ## Preview
 
-![Simulation Preview](images/simulation_preview.png)
+![Simulation Preview](images/preview.png)
 
 ## Features
 
@@ -26,7 +26,6 @@ This project was developed as part of a Computer Programming course to provide a
 
 - Python
 - Pygame
-- Object-Oriented Programming (OOP)
 - Physics-Based Simulation
 
 ## My Contributions
@@ -39,7 +38,6 @@ Responsibilities:
 - Developed the user interface using Pygame
 - Integrated collision and momentum formulas
 - Conducted testing and debugging
-- Prepared project documentation and flowcharts
 
 ## Project Structure
 
@@ -52,7 +50,7 @@ Responsibilities:
 │   └── ball.png
 │
 ├── images/
-│   └── simulation_preview.png
+│   └── preview.png
 │
 ├── docs/
 │   └── project_report.pdf
